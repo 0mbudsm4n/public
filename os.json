@@ -1,0 +1,21 @@
+{
+    "name":                     "lineage20-rpi4",
+    "description":              "Lineage OS (KonstaKANG) 20 for RPi4",
+    "release_date":             "2023-03-21",
+    "feature_level":            0,
+    "supported_models": [
+        "Pi 4 Model B Rev"
+    ],
+    "supports_usb_boot":       false,
+    "supports_usb_root":       false,
+    "supports_sda_boot":       true,
+    "supports_sda_root":       true,
+    "version":                  "20.0",
+    "kernel":                   "5.15.94",
+    "supports_backup":          "true",
+    "url":                      "https://konstakang.com/devices/rpi4/",
+    "group":                    "General",
+    "username":                 "",
+    "password":                 "",
+	"sha512sum":				"05ea39d8affa788b81c9a0bd467d1d474d3c2bc05bb5cf002d1227dcc160d8cf844de01fc5b3db5f5a4cfd2ca48e4cfc03eb90d39372b266cd7d67a9ae3a86f6",
+}
