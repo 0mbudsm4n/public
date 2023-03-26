@@ -17,5 +17,5 @@
     "group":                    "General",
     "username":                 "",
     "password":                 "",
-	"sha512sum":				"05ea39d8affa788b81c9a0bd467d1d474d3c2bc05bb5cf002d1227dcc160d8cf844de01fc5b3db5f5a4cfd2ca48e4cfc03eb90d39372b266cd7d67a9ae3a86f6",
+    "sha512sum":		"05ea39d8affa788b81c9a0bd467d1d474d3c2bc05bb5cf002d1227dcc160d8cf844de01fc5b3db5f5a4cfd2ca48e4cfc03eb90d39372b266cd7d67a9ae3a86f6",
 }
